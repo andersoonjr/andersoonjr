@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQGLRTjhX0dRPQ/profile-displayphoto-shrink_800_800/0/1719873312488?e=1736985600&v=beta&t=4Gc9rQtFqj8I7J6n9NyqUve4fWm5SHx2dTyxWkGaQP8" />
 </div>
 
 ###
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://wa.me/5511949136870" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <p align="left">
   Meu nome é Anderson, tenho 23 anos e sou desenvolvedor com foco em backend e frontend.<br><br>
   🔭 Atualmente, estou desenvolvendo um Sistema de Gerenciamento de Biblioteca em Java, onde exploro conceitos de estrutura de pacotes, banco de dados MySQL e integração com APIs.<br>
-  📚 Estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas na Universidade UNASP no período noturno e, ao mesmo tempo, expandindo minhas habilidades em Angular, com foco em projetos dinâmicos e bem estruturados. Busco me tornar um desenvolvedor fullstack com base sólida.<br>
+  📚 Estou cursando o quarto semestre de Análise e Desenvolvimento de Sistemas na Universidade UNASP no período noturno e, ao mesmo tempo, expandindo minhas habilidades em Angular, com foco em projetos dinâmicos e bem estruturados, sempre por trás de projetos fullstack para me tornar um desenvolvedor com a base sólida.<br>
   ⚡ No meu tempo livre, busco sempre experimentar novas tecnologias e aprimorar meu portfólio com projetos que conectem a funcionalidade do backend a um frontend responsivo e intuitivo.
 </p>
 
